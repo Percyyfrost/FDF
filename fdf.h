@@ -14,7 +14,7 @@
 # define FDF_H
 
 # include "libft/libft.h"
-# include "mlx.h"
+# include "../minilibx/mlx.h"
 
 void	parse(int fd);
 
